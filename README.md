@@ -185,15 +185,15 @@ Project Link: [https://github.com/tbegush/git-it-done](https://github.com/tbegus
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/tbegush/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/tbegush/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/tbegush/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/tbegush/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/tbegush/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/tbegush/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/tbegush/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/tbegush/repo/issues
-[license-shield]: https://img.shields.io/github/license/tbegush/repo.svg?style=for-the-badge
-[license-url]: https://github.com/tbegush/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/tbegush/git-it-done.svg?style=for-the-badge
+[contributors-url]: https://github.com/tbegush/git-it-done/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/tbegush/git-it-done.svg?style=for-the-badge
+[forks-url]: https://github.com/tbegush/git-it-done/network/members
+[stars-shield]: https://img.shields.io/github/stars/tbegush/git-it-done.svg?style=for-the-badge
+[stars-url]: https://github.com/tbegush/git-it-done/stargazers
+[issues-shield]: https://img.shields.io/github/issues/tbegush/git-it-done.svg?style=for-the-badge
+[issues-url]: https://github.com/tbegush/git-it-done/issues
+[license-shield]: https://img.shields.io/github/license/tbegush/git-it-done.svg?style=for-the-badge
+[license-url]: https://github.com/tbegush/git-it-done/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/tbegush
