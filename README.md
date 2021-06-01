@@ -193,7 +193,7 @@ Project Link: [https://github.com/tbegush/git-it-done](https://github.com/tbegus
 [stars-url]: https://github.com/tbegush/git-it-done/stargazers
 [issues-shield]: https://img.shields.io/github/issues/tbegush/git-it-done.svg?style=for-the-badge
 [issues-url]: https://github.com/tbegush/git-it-done/issues
-[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
+[license-shield]: https://img.shields.io/github/issues/tbegush/git-it-done.svg?style=for-the-badge
 [license-url]: https://github.com/tbegush/git-it-done/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/tbegush
