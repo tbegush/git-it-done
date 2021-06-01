@@ -175,7 +175,7 @@ Project Link: [https://github.com/tbegush/git-it-done](https://github.com/tbegus
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [https://github.com/othneildrew/Best-README-Template](asdfsadfdsfdsf)
+* [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * []()
 * []()
 
