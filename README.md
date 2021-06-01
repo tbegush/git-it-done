@@ -194,6 +194,6 @@ Project Link: [https://github.com/tbegush/git-it-done](https://github.com/tbegus
 [issues-shield]: https://img.shields.io/github/issues/tbegush/git-it-done.svg?style=for-the-badge
 [issues-url]: https://github.com/tbegush/git-it-done/issues
 [license-shield]: https://img.shields.io/github/license/tbegush/git-it-done.svg?style=for-the-badge
-[license-url]: https://github.com/tbegush/git-it-done/blob/master/LICENSE
+[license-url]: https://raw.githubusercontent.com/tbegush/git-it-done/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/tbegush
