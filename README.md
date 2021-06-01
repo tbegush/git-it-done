@@ -34,7 +34,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/tbegush/git-it-done">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./assets/images/git-it-done-logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">git-it-done</h3>
