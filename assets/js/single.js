@@ -1,6 +1,7 @@
 var repoNameEl = document.querySelector("#repo-name");
 var issueContainerEl = document.querySelector("#issues-container");
 var limitWarningEl = document.querySelector("#limit-warning");
+var languageButtonsEl = document.querySelector("#language-buttons");
 
 var getRepoName = function() {
   // grab repo name from url query string
@@ -95,3 +96,25 @@ var displayWarning = function(repo) {
 };
 
 getRepoName();
+
+
+
+var buttonClickHandler = function() {
+  var language = event.target.getAttribute("data-language")
+  console.log(lanaguage)
+}
+
+getFeaturedRepos(language)
+
+if (language) {
+  getFeaturedRepos(language);
+
+  // clear old content
+  repoContainerEl.textContent = "";
+}
+
+
+
+
+
+languageButtonsEl.addEventListener("click", buttonClickHandler);
